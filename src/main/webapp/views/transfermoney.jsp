@@ -7,7 +7,7 @@
 <title>Transfer money</title>
 </head>
 <body>
-<form action="../transfer" method="post">
+<form action="./transfer" method="post">
 Enter your uid : <input type="number" name="uid" required="required">
 Enter beneficiary uid : <input type="number" name="bid" required="required"/><br>
 Enter the amount : <input type="number" name="amt" required="required"/><br>
